@@ -1,0 +1,1602 @@
+[
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 2949.57,
+    "generated_text": " {68.4, 56.8}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 316.2,
+    "generated_text": " {63.6, 56.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 309.69,
+    "generated_text": " {68.1, 55.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 310.3,
+    "generated_text": " {68.1, 54.2}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 339.24,
+    "generated_text": " {68.1, 51.0}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 350.8,
+    "generated_text": " {68.1, 56.8}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 389.87,
+    "generated_text": " {68.4, 56.8}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 389.33,
+    "generated_text": " {68.0, 56.2}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 513.76,
+    "generated_text": " {68.3, 56.8}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 515.58,
+    "generated_text": " {68.3, 56.8}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 509.08,
+    "generated_text": " {71.0, 22.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.24,
+    "generated_text": " {71.0, 26.0}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.33,
+    "generated_text": " {71.0, 25.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.85,
+    "generated_text": " {71.0, 25.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 319.75,
+    "generated_text": " {71.0, 22.2}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 350.83,
+    "generated_text": " {71.0, 20.8}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.18,
+    "generated_text": " {71.0, 19.5}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.22,
+    "generated_text": " {71.0, 19.5}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 509.01,
+    "generated_text": " {71.0, 22.2}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 510.36,
+    "generated_text": " {71.0, 22.2}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 510.22,
+    "generated_text": " {71.0, 29.4}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.17,
+    "generated_text": " {71.0, 26.0}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.24,
+    "generated_text": " {71.0, 25.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 315.81,
+    "generated_text": " {71.0, 25.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 319.65,
+    "generated_text": " {71.0, 29.6}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 349.98,
+    "generated_text": " {71.0, 28.6}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.71,
+    "generated_text": " {71.0, 29.6}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.17,
+    "generated_text": " {71.0, 29.6}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 513.25,
+    "generated_text": " {71.0, 29.4}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 510.27,
+    "generated_text": " {71.0, 29.4}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 508.92,
+    "generated_text": " {71.0, 38.5}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.77,
+    "generated_text": " {71.0, 30.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.47,
+    "generated_text": " {71.0, 32.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.7,
+    "generated_text": " {71.0, 33.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 319.03,
+    "generated_text": " {71.0, 35.5}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 349.79,
+    "generated_text": " {71.0, 39.2}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 389.44,
+    "generated_text": " {71.0, 38.0}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 389.23,
+    "generated_text": " {71.0, 36.5}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 510.5,
+    "generated_text": " {71.4, 38.8}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 511.03,
+    "generated_text": " {71.0, 39.0}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 512.23,
+    "generated_text": " {68.6, 63.8}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.76,
+    "generated_text": " {71.1, 51.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 351.34,
+    "generated_text": " {68.1, y1=\"69.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 308.2,
+    "generated_text": " {69.7, 67.1}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 363.1,
+    "generated_text": " {71.1, y1=\"64.8}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 350.7,
+    "generated_text": " {71.0, 61.0}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.65,
+    "generated_text": " {67.0, 63.5}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 388.46,
+    "generated_text": " {67.4, 63.5}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 509.54,
+    "generated_text": " {68.6, 63.8}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 509.51,
+    "generated_text": " {68.6, 63.8}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1840.39,
+    "generated_text": " {70.1, y1=\"56.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 458.63,
+    "generated_text": " {71.1, 51.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 456.64,
+    "generated_text": " {68.1, 55.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 457.66,
+    "generated_text": " {66.2, 54.8}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 495.37,
+    "generated_text": " {68.1, 51.8}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 587.01,
+    "generated_text": " {68.1, 56.8}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 685.24,
+    "generated_text": " {68.4, 55.5}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 880.36,
+    "generated_text": " {\"x\": 67.1, \"y\": y1=\"55.2\"}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 978.6,
+    "generated_text": " {70.1, y1=\"56.2}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 975.17,
+    "generated_text": " {70.1, y1=\"56.2}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 925.64,
+    "generated_text": " {71.3, 22.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 458.17,
+    "generated_text": " {71.1, 26.0}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 458.46,
+    "generated_text": " {71.1, 23.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 457.9,
+    "generated_text": " {71.1, 23.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 492.68,
+    "generated_text": " {71.1, 20.2}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 584.58,
+    "generated_text": " {71.1, 20.2}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 665.67,
+    "generated_text": " {71.1, 18.2}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 683.36,
+    "generated_text": " {71.1, 18.2}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 951.48,
+    "generated_text": " {71.1, 22.2}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 929.19,
+    "generated_text": " {71.3, 20.8}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 945.72,
+    "generated_text": " {50.2, 29.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 459.52,
+    "generated_text": " {50.2, 51.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 469.5,
+    "generated_text": " {71.1, 25.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 456.28,
+    "generated_text": " {71.1, 23.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 493.37,
+    "generated_text": " {71.0, 27.5}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 576.39,
+    "generated_text": " {71.3, 27.3}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 661.98,
+    "generated_text": " {54.2, 27.5}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 663.37,
+    "generated_text": " {54.2, 27.5}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 929.23,
+    "generated_text": " {50.2, 29.6}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 928.57,
+    "generated_text": " {50.2, 29.6}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 925.97,
+    "generated_text": " {69.2, 38.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 459.31,
+    "generated_text": " {71.0, 31.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 457.17,
+    "generated_text": " {71.0, 33.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 459.03,
+    "generated_text": " {71.0, 31.5}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 494.26,
+    "generated_text": " {71.0, 35.5}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 578.87,
+    "generated_text": " {71.3, 39.2}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 665.75,
+    "generated_text": " {71.0, 38.2}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 659.72,
+    "generated_text": " {69.4, 35.7}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 928.72,
+    "generated_text": " {71.4, 38.8}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 931.64,
+    "generated_text": " {71.4, 39.2}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1084.39,
+    "generated_text": " {x: 67.1, y: y1=\"64.2}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 461.0,
+    "generated_text": " {71.1, 51.5}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 459.49,
+    "generated_text": " {58.2, 64.5}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 458.47,
+    "generated_text": " {55.7, 67.7}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 562.65,
+    "generated_text": " {\"x\": 68.0, \"y\": y}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 643.37,
+    "generated_text": " {\"x\": 71.0, \"y\": y}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 664.34,
+    "generated_text": " {64.4, 64.4}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 819.6,
+    "generated_text": " {x: 65.2, y: y1=\"64.9}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1080.85,
+    "generated_text": " {x: 67.1, y: y1=\"64.2}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-O-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1076.84,
+    "generated_text": " {x: 67.1, y: y1=\"64.2}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 45192.22,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 705.42,
+    "generated_text": " {\n  \"x\": 67.7,\n  \"y\": 56.2\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 651.75,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 54.2\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 653.55,
+    "generated_text": " {\n  \"x\": 67.7,\n  \"y\": 53.2\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 699.23,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 54.2\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 774.53,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.2\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 872.46,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.8\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 871.11,
+    "generated_text": " {\n  \"x\": 67.7,\n  \"y\": 56.8\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1108.75,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1110.72,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1106.25,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 20.0\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 652.42,
+    "generated_text": " {\n  \"x\": 70.2,\n  \"y\": 19.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 651.26,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 22.3\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 651.2,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 22.0\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 697.78,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 21.2\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 764.78,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 20.8\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 908.47,
+    "generated_text": " {\n  \"x\": 67.7,\n  \"y\": 19.2\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 904.0,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 19.2\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1149.21,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 20.0\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1174.45,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 20.0\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1145.54,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 28.3\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 683.0,
+    "generated_text": " {\n  \"x\": 71.0,\n  \"y\": 59.0\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 677.67,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 22.9\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 671.63,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 22.0\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 720.36,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 29.9\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 785.87,
+    "generated_text": " {\n  \"x\": 66.7,\n  \"y\": 27.3\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 854.64,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 28.3\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 858.19,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 28.3\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1142.02,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 28.3\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1148.31,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 28.3\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1120.9,
+    "generated_text": " {\n  \"x\": 69.8,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 672.11,
+    "generated_text": " {\n  \"x\": 71.0,\n  \"y\": 20.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 690.99,
+    "generated_text": " {\n  \"x\": 76.0,\n  \"y\": 34.0\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 654.15,
+    "generated_text": " {\n  \"x\": 76.1,\n  \"y\": 34.0\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 699.75,
+    "generated_text": " {\n  \"x\": 70.2,\n  \"y\": 37.5\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 765.4,
+    "generated_text": " {\n  \"x\": 70.8,\n  \"y\": 36.2\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 839.2,
+    "generated_text": " {\n  \"x\": 69.8,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 834.89,
+    "generated_text": " {\n  \"x\": 69.8,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1105.93,
+    "generated_text": " {\n  \"x\": 69.8,\n  \"y\": 37.5\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1107.54,
+    "generated_text": " {\n  \"x\": 69.8,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1107.37,
+    "generated_text": " {\n  \"x\": 65.2,\n  \"y\": 63.2\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 647.54,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 59.0\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 648.61,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 64.3\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 649.51,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 64.8\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 692.47,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 63.2\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 759.27,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 62.3\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 828.91,
+    "generated_text": " {\n  \"x\": 64.8,\n  \"y\": 63.2\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 827.83,
+    "generated_text": " {\n  \"x\": 66.2,\n  \"y\": 63.0\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1100.38,
+    "generated_text": " {\n  \"x\": 64.8,\n  \"y\": 63.5\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": true,
+    "generation_time_ms": 1107.24,
+    "generated_text": " {\n  \"x\": 65.2,\n  \"y\": 63.2\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 2032.49,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 613.52,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 55.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 563.06,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 53.5\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 563.35,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 53.5\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 577.78,
+    "generated_text": " {\n  \"x\": 68.0,\n  \"y\": 53.5\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 609.37,
+    "generated_text": " {\n  \"x\": 68.1,\n  \"y\": 57.9\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 647.89,
+    "generated_text": " {\n  \"x\": 68.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 647.43,
+    "generated_text": " {\n  \"x\": 68.5,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 759.53,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 759.86,
+    "generated_text": " {\n  \"x\": 67.1,\n  \"y\": 56.5\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.25,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 18.9\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.98,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 20.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 562.55,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 23.0\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 563.16,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 23.0\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 368.56,
+    "generated_text": " {66.7, 21.5}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 398.15,
+    "generated_text": " {66.7, 21.0}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 421.12,
+    "generated_text": " {66.7, 18.5}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 423.13,
+    "generated_text": " {66.5, 19.0}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.46,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 19.0\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the name input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 759.06,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 19.5\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 756.32,
+    "generated_text": " {\n  \"x\": 69.5,\n  \"y\": 28.5\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 563.04,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 50.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 562.64,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 24.5\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 566.37,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 25.0\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 578.7,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 29.5\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 398.43,
+    "generated_text": " {69.4, 27.0}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 634.75,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 28.5\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 634.07,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 28.0\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.13,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 28.0\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the email input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.72,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 28.0\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 759.53,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 37.7\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.5,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 26.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 566.1,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 35.5\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.98,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 35.5\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 580.34,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 37.5\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 611.99,
+    "generated_text": " {\n  \"x\": 76.5,\n  \"y\": 37.5\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 635.31,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 636.29,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 36.5\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.33,
+    "generated_text": " {\n  \"x\": 71.5,\n  \"y\": 36.7\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the password input. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 758.39,
+    "generated_text": " {\n  \"x\": 71.5,\n  \"y\": 37.0\n}"
+  },
+  {
+    "image_name": "test-image_original.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 758.09,
+    "generated_text": " {\n  \"x\": 65.5,\n  \"y\": 63.2\n}"
+  },
+  {
+    "image_name": "test-image_10.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.19,
+    "generated_text": " {\n  \"x\": 70.5,\n  \"y\": 59.5\n}"
+  },
+  {
+    "image_name": "test-image_20.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.47,
+    "generated_text": " {\n  \"x\": 68.0,\n  \"y\": 66.5\n}"
+  },
+  {
+    "image_name": "test-image_30.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 565.26,
+    "generated_text": " {\n  \"x\": 68.0,\n  \"y\": 65.8\n}"
+  },
+  {
+    "image_name": "test-image_40.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 578.6,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 64.0\n}"
+  },
+  {
+    "image_name": "test-image_50.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 609.57,
+    "generated_text": " {\n  \"x\": 66.5,\n  \"y\": 61.0\n}"
+  },
+  {
+    "image_name": "test-image_60.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 633.58,
+    "generated_text": " {\n  \"x\": 66.0,\n  \"y\": 63.5\n}"
+  },
+  {
+    "image_name": "test-image_70.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 633.94,
+    "generated_text": " {\n  \"x\": 66.1,\n  \"y\": 63.0\n}"
+  },
+  {
+    "image_name": "test-image_80.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 757.26,
+    "generated_text": " {\n  \"x\": 65.5,\n  \"y\": 63.5\n}"
+  },
+  {
+    "image_name": "test-image_90.png",
+    "prompt": "What is the point coordinate of the login link. Only include the json response in the output {x, y}",
+    "model_used": "allenai/Molmo-7B-D-0924",
+    "enable_bits_and_bytes": false,
+    "generation_time_ms": 756.89,
+    "generated_text": " {\n  \"x\": 65.5,\n  \"y\": 63.5\n}"
+  }
+]

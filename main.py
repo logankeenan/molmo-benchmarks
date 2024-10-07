@@ -6,6 +6,9 @@ import os
 import torch
 import json
 
+with open('prompts.json', 'r') as f:
+    prompts = json.load(f)
+
 # Load the image
 image_path = 'test-image.png'
 image = Image.open(image_path)
@@ -41,7 +44,7 @@ for i in range(1, 10):
 
 model_name = 'allenai/Molmo-7B-D-0924'
 prompt = "What is the point coordinate of the sign up button. Only include the json response in the output {x, y}"
-enable_bits_and_bytes = True
+enable_bits_and_bytes = False
 
 torch_dtype = torch.bfloat16
 if enable_bits_and_bytes:
@@ -56,7 +59,7 @@ processor = AutoProcessor.from_pretrained(
 
 arguments = {"device_map": "cuda", "torch_dtype": torch_dtype, "trust_remote_code": True}
 
-if not enable_bits_and_bytes:
+if enable_bits_and_bytes:
     quantization_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="fp4",
@@ -69,38 +72,39 @@ model = AutoModelForCausalLM.from_pretrained(
     **arguments
 )
 
-for image_file in image_paths:
-    inputs = processor.process(
-        images=[Image.open(image_file)],
-        text=prompt
-    )
-    inputs = {k: v.to(model.device).unsqueeze(0) for k, v in inputs.items()}
+for prompt in prompts:
+    for image_file in image_paths:
+        inputs = processor.process(
+            images=[Image.open(image_file)],
+            text=prompt
+        )
+        inputs = {k: v.to(model.device).unsqueeze(0) for k, v in inputs.items()}
 
-    if enable_bits_and_bytes:
-        model.to(dtype=torch.bfloat16)
-        inputs["images"] = inputs["images"].to(torch.bfloat16)
+        if not enable_bits_and_bytes:
+            model.to(dtype=torch.bfloat16)
+            inputs["images"] = inputs["images"].to(torch.bfloat16)
 
-    generation_start_time = time.time()
-    output = model.generate_from_batch(
-        inputs,
-        GenerationConfig(max_new_tokens=200, stop_strings="<|endoftext|>"),
-        tokenizer=processor.tokenizer
-    )
+        generation_start_time = time.time()
+        output = model.generate_from_batch(
+            inputs,
+            GenerationConfig(max_new_tokens=200, stop_strings="<|endoftext|>"),
+            tokenizer=processor.tokenizer
+        )
 
-    generated_tokens = output[0, inputs['input_ids'].size(1):]
-    generated_text = processor.tokenizer.decode(generated_tokens, skip_special_tokens=True)
+        generated_tokens = output[0, inputs['input_ids'].size(1):]
+        generated_text = processor.tokenizer.decode(generated_tokens, skip_special_tokens=True)
 
-    generation_time = time.time() - generation_start_time
+        generation_time = time.time() - generation_start_time
 
-    # Collect results for each image
-    # Create result for the current image
-    result = {
-        "image_name": os.path.basename(image_file),
-        "model_used": model_name,
-        "enable_bits_and_bytes": enable_bits_and_bytes,
-        "generation_time_ms": round(generation_time * 1000, 2),
-        "generated_text": generated_text
-    }
+        # Collect results for each image and prompt
+        result = {
+            "image_name": os.path.basename(image_file),
+            "prompt": prompt,  # Include the prompt in the result
+            "model_used": model_name,
+            "enable_bits_and_bytes": enable_bits_and_bytes,
+            "generation_time_ms": round(generation_time * 1000, 2),
+            "generated_text": generated_text
+        }
 
-    # Print the result in JSON format
-    print(json.dumps(result, indent=4))
+        # Print the result in JSON format
+        print(json.dumps(result, indent=4))
